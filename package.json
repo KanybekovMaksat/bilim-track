@@ -39,6 +39,7 @@
     "formik": "^2.4.6",
     "framer-motion": "^12.4.10",
     "handsontable": "^15.0.0",
+    "html5-qrcode": "^2.3.8",
     "lodash": "^4.17.21",
     "lodash.debounce": "^4.0.8",
     "lucide-react": "^0.469.0",

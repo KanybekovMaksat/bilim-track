@@ -20,7 +20,6 @@ export const UserProfilePage = () => {
     return <div>Error fetching user data.</div>;
   }
 
-
   return (
     <div>
       {userData.data.role === 'student' ? (
